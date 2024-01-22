@@ -16,7 +16,7 @@ _**Methodology:**_
 **Data Collection:** The lab results, both pre- and post-medication, will be meticulously recorded, ensuring the accuracy and confidentiality of patient data.
 
 **Data Analysis:** The effectiveness of the medications will be evaluated by comparing the pre- and post-medication lab results. This analysis will focus on identifying significant changes in health indicators that can be attributed to the medication.
-_
+
 _**Expected Outcomes:**_
 
 The project aims to provide valuable insights into the effectiveness of different medications on various patient demographics. The comparative analysis of lab results will help in understanding how different patients respond to specific medications, which can guide more personalized and effective treatment strategies in the future.
